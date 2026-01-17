@@ -25,8 +25,6 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=000000)
 
-<br/>
-
 <!-- Geospatial stack -->
 ![GeoPandas](https://img.shields.io/badge/-GeoPandas-2C5AA0?style=for-the-badge)
 ![GDAL](https://img.shields.io/badge/-GDAL-0F172A?style=for-the-badge)
@@ -34,8 +32,6 @@
 ![PostGIS](https://img.shields.io/badge/-PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![OpenStreetMap](https://img.shields.io/badge/-OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
-
-<br/>
 
 <!-- Engineering -->
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
