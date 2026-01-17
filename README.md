@@ -15,7 +15,6 @@
 ## 📌 Featured
 - **Geospatial Insights Lab (GIL)**: https://github.com/Geospatial-Insights-Lab  
 - **Awesome Geospatial Insights**: https://github.com/Geospatial-Insights-Lab/awesome-geospatial-insights  
-- **Website**: https://guojialegeographer.github.io  
 
 ## 🛠️ Tools & Tech Stack
 <!-- Core ML / Data -->
