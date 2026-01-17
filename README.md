@@ -3,45 +3,50 @@
 <p align="center">GeoAI · Spatial Analysis · Computational Geography · Sustainable Urban & Environmental Modelling</p>
 <hr/>
 
-**I build reproducible geospatial research assets** (paper → code → evaluation), with a focus on GeoAI/GeoFMs, spatiotemporal analytics, and urban/environment modelling.
+## 🌟 About Me
+- 🔬 I focus on **GeoAI / GeoFMs**, spatiotemporal analytics, and urban–environment modelling.
+- 🧪 I build **reproducible research assets** (paper → code → evaluation).
+- 🤝 Open to collaboration on datasets, benchmarks, and reproducible pipelines.
+- 📍 Milan, Italy
 
-### 🔭 Current Focus
-- **GeoFMs & Spatial Representation**: embeddings, pretraining, spatial semantics  
-- **Spatiotemporal Risk Perception**: warnings ↔ emotions ↔ lag/lead responses  
-- **Reproducibility & Benchmarking**: datasets · baselines · evaluation · open science  
-
-### 🧭 Research Map
+## 🧭 Research Map
 <img src="assets/research-map.png" width="900" />
 
-### 📌 Featured
-- **GIL (Geospatial Insights Lab)**: https://github.com/Geospatial-Insights-Lab
-- **Awesome Geospatial Insights**: https://github.com/Geospatial-Insights-Lab/awesome-geospatial-insights
-- **My Website**: https://guojialegeographer.github.io
-- **Best Tool/Project**: https://github.com/GuojialeGeographer/XXXX
+## 📌 Featured
+- **Geospatial Insights Lab (GIL)**: https://github.com/Geospatial-Insights-Lab  
+- **Awesome Geospatial Insights**: https://github.com/Geospatial-Insights-Lab/awesome-geospatial-insights  
+- **Best Tool/Project**: https://github.com/GuojialeGeographer/XXXX  
+- **Website**: https://guojialegeographer.github.io  
 
-### 🧰 Stack (core)
-Python · PyTorch · GeoPandas · PostGIS · QGIS · Docker
+## 🛠️ Tools & Tech Stack
+<!-- Core ML / Data -->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=000000)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### 🤝 Connect
-- Google Scholar: [link]
-- ORCID: [link]
-- Email: [your email]
+<br/>
 
-<details>
-<summary><b>中文简介（点击展开）</b></summary>
+<!-- Geospatial stack -->
+![GeoPandas](https://img.shields.io/badge/-GeoPandas-2C5AA0?style=for-the-badge)
+![GDAL](https://img.shields.io/badge/-GDAL-0F172A?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/-PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![QGIS](https://img.shields.io/badge/-QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/-OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
 
-## 中文简介
-米兰理工大学 DICA 地理信息工程硕士（GeoAI/空间分析/计算地理/城市与环境建模）。  
-我关注**可复现的 GeoAI 研究资产**：从论文到代码到评测（paper → code → evaluation），持续沉淀数据集、基线与 benchmark。
+<br/>
 
-### 当前方向
-- GeoFMs 与空间表征学习  
-- 极端事件/风险感知的时空响应与滞后/超前  
-- 可复现实验、开源评测与工具链整理  
+<!-- Engineering -->
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 入口
-- GIL 社群： https://github.com/Geospatial-Insights-Lab  
-- 资源清单： https://github.com/Geospatial-Insights-Lab/awesome-geospatial-insights  
-- 个人主页： https://guojialegeographer.github.io  
+## 🤝 Let’s Connect
+- 🌐 Website: https://guojialegeographer.github.io
 
-</details>
+- ✉️ Email: jiale.guo@mail.polimi.it
